@@ -1,0 +1,2 @@
+// Creates oe uses a database
+use my_db;
